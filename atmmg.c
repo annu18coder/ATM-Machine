@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<time.h>
 #include<conio.h>
-// # define total 50
+
 
 struct atmmachine{
     long int acc_no;
