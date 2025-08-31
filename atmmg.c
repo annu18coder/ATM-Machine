@@ -11,14 +11,6 @@ struct atmmachine{
     char accholder_name[100];
     long int balance;
     char acc_type[100];
-
-    // char accholder_fathername[100];
-    // char accholder_mothername[100];
-    // char any_yojna[200];
-    // char acchold_eduquali[100];
-    // char nominee[50];
-    // long int phoneno;
-    // char emailadd[100];
 };
 
 
