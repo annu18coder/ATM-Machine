@@ -56,7 +56,7 @@ int main(){
     printf("\nEnter the number of accounts you want to create: ");
     scanf("%d", &n);
     for(i=0;i<n;i++){
-        printf("\nEnter Account Number %d: ",n);
+        printf("\nEnter Account Number %d: ",i+1);
         scanf("%ld", &atm[i].acc_no);
     
         printf("\nEnter PIN (4-digit): ");

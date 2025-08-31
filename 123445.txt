@@ -1,0 +1,2 @@
+Sun Aug 31 18:34:00 2025 | Withdraw | Amount: 3000 | Balance After: 17000
+Sun Aug 31 18:34:51 2025 | Deposit | Amount: 500 | Balance After: 17500
